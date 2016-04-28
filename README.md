@@ -1,9 +1,6 @@
 Mid Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/Mid/Mid.svg?branch=master)](https://travis-ci.org/Mid/Mid)
-
-https://Midcore.org
 
 What is Mid?
 ----------------
